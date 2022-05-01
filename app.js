@@ -1,4 +1,4 @@
-const colors = ['#112B3C', '#205375', '#DAE5D0', '#AB46D2', '#AC7D88', '#83BD75', 'red', 'grey']
+const colors = ['AliceBlue', 'Blue', 'AntiqueWhite', 'Orange', 'Yellow', 'Purple', 'Aqua', 'red', 'grey', 'Aquamarine', 'Azure', 'Beige', 'Bisque', 'Cyan', 'Coral', 'Indigo', 'Magenta rose', 'BlueViolet', 'Brown', 'BurlyWood', 'CadetBlue', 'Chartreuse', 'Violet', 'Chocolate', 'CornflowerBlue', 'Plum', 'Cornsilk', 'Pink', 'Crimson', 'DarkBlue', 'DarkCyan', 'DarkGoldenRod', 'DarkGray', 'DarkOliveGreen', 'DarkOrchid', 'DarkSlateBlue', 'DarkViolet', 'DeepPink', 'DodgerBlue', 'FireBrick', 'GhostWhite', 'Gold', 'GreenYellow', 'HoneyDew', 'HotPink', 'IndianRed', 'Ivory', 'Khaki', 'Lavender', 'LavenderBlush', 'LawnGreen', 'LemonChiffon', 'LightBlue', 'LightCoral', 'LightCyan', 'LightGoldenRodYellow', 'LightGrey', 'LightGreen', 'LightPink', 'LightSkyBlue', 'Lime', 'Linen', 'MediumBlue', 'MediumVioletRed', 'Navy', 'PapayaWhip', 'RoyalBlue', 'SeaShell', 'SkyBlue', 'Tomato']
 
 const btn = document.getElementById('btn')
 const color = document.querySelector('.color')
